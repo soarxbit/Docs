@@ -1,6 +1,6 @@
 # Stake, Delegate and Withdraw
 
-The basic requirement to become a Soarx chain validator is to have a stake amount of at least 10,000 Soarx tokens. The stake amount is the sum of staked and delegated Soarx tokens of the address. This guide walks trough the process of using MEW (MyEtherWallet.com) in the process of using Soarx network.**Roadmap** - Those functionalities will be built into our Studio and will not require any technical knowledge in the future.
+The basic requirement to become a Soarx chain validator is to have a stake amount of at least 2,500,000 Soarx tokens. The stake amount is the sum of staked and delegated Soarx tokens of the address. This guide walks trough the process of using MEW (MyEtherWallet.com) in the process of using Soarx network.**Roadmap** - Those functionalities will be built into our Studio and will not require any technical knowledge in the future.
 
 ## Stake <a href="#stake" id="stake"></a>
 

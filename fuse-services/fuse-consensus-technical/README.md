@@ -23,7 +23,7 @@ Stake amount for a validator is the sum of staked and delegated amount to it's a
 This contract is based on `non-reporting ValidatorSet` [described in Parity Wiki](https://wiki.parity.io/Validator-Set.html#non-reporting-contract).
 
 {% hint style="info" %}
-minimum stake amount = 10,000 Soarx token
+minimum stake amount = 2,500,000 Soarx token
 
 cycle duration blocks = 1440 \(approximately 2 hours\)
 
